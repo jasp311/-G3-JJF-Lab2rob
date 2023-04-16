@@ -10,13 +10,10 @@
 ### Solución del problema
 El objetivo del laboratorio es de implementar dos entradas y una salida digital para el manejo del robot en el laboratorio.
 La solución planteada consiste en implementar el código de la primera sesión del laboratorio, con el agregado de las entradas y salidas digitales, como mencionado en la guía se añaden dos evento por medio del software RobotStudio en la ruta main, donde se encuentra el recorrido realizado por el robot para la escritura de las iniciales de los nombres del grupo, estos eventos esperan la entrada digital para poder comenzar el recorrido y, una vez empieza, se envía la segunda acción, que es la salida digital que enciende la luz de señalización. A continuación se crea una nueva ruta para un punto donde sea más fácil quitar y poner la herramienta y de nuevo se añaden la entrada y salida digital, esta vez, un botón distinto, como segunda entrada, y el apagado de la primera salida digital.
-El video donde se muestra tanto la simulación como el resultado del laboratorio se encuentra a continuación:
-[Imagen de resultado final](https://drive.google.com/file/d/1lQ5JUMA3xT-8_DehqiqwM6muVTgrXkPd/view?usp=share_link)
-#Recordar cambiar el link
 
 En el repositorio se encuentran: 
 
--videos de las simulaciones y de la práctica en el laboratorio, encontrados en el link que se muestra a continuación [Video Laboratorio 1](https://youtu.be/TSpJmbPzFIQ).
+-videos de las simulaciones y de la práctica en el laboratorio, encontrados en el link que se muestra a continuación [Video Laboratorio 2](https://youtu.be/E4KqoMJ1tv8).
 
 -Codigo RAPID del programa con dos entradas y salidas digitales, que se modificaron en el Flex pendant para concordar con las manejadas con el robot.
 
